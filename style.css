@@ -1,0 +1,25 @@
+/* style.css */
+/* Without that, HTML is poor */
+
+body {
+	font-family: Helvetica, sans-serif;
+	background-color: #000080;
+	font-size: 13px;
+	text-align: center;
+}
+
+.box {
+    border: 4px solid #FF0000;
+    padding: 30px;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.external {
+	background-color: #808080;
+}
+
+.master {
+	font-family: Times New Roman, sans-serif;
+	color: red;
+}
